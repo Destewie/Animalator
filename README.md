@@ -7,4 +7,4 @@ Una versione animalesca di Akinator
 
 # Avvertenze
 Il progetto è stato fatto in modo che ci fosse una musichetta di sottofondo durante l'esecuzione ma, purtroppo, non posso caricare file di una certa dimensione qui su GitHub. <br>
-Se vuoi provare a giocare e il rumore d'errore di windows ti dà fastidio, inserisci una traccia a tuo piacimento nella cartella del progetto e chiamala "Music.wav"
+Se vuoi provare a giocare e il rumore d'errore di windows ti dà fastidio, inserisci una traccia a tuo piacimento nella cartella del progetto e chiamala "Music.wav".
